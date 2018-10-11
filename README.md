@@ -10,7 +10,7 @@ Editing the PATH within your setup is just one single exec command instead of us
 `PathEd.exe add "C:\Program Files\RepoZ"`
 
 ###### Remove a value from the Windows PATH:
-`Path.Ed remove "C:\Program Files\RepoZ"`
+`PathEd.exe remove "C:\Program Files\RepoZ"`
 
 ## Noteworthy
 
