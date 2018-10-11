@@ -1,7 +1,5 @@
 # ![windows][windows] PathEd
 
-PathEd is a simple tool to add or remove values from the Windows PATH variable.
-
 Without PathEd, it can be quite cumbersome to handle the old-school semicolon-devided PATH variable safely. 
 
 PathEd has no dependencies besides the .NET Framework 2.0 and can be deployed with any installer, for example.
