@@ -12,6 +12,10 @@ Editing the PATH within your setup is just one single exec command instead of us
 ###### Remove a value from the Windows PATH:
 `PathEd.exe remove "C:\Program Files\RepoZ"`
 
+##### Usage in a NSIS install script:
+PathEd is used in the [RepoZ](https://github.com/awaescher/RepoZ) NSIS install script to [add](https://github.com/awaescher/RepoZ/blob/496d4f7539670112772b81e208c2ce650164e101/_setup/RepoZ.nsi#L59) and [remove](https://github.com/awaescher/RepoZ/blob/496d4f7539670112772b81e208c2ce650164e101/_setup/RepoZ.nsi#L92) the application location to the Windows PATH.
+
+
 ## Noteworthy
 
 PathEd will ...
